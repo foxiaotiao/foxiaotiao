@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**foxiaotiao/foxiaotiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 佛跳墙：稳定好用的跨境网络工具
 
-Here are some ideas to get you started:
+> 更新时间：2026-02-09
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[佛跳墙VPN](https://nav.fojump.com)是一个专注跨境网络的加速服务品牌。我们在同一地区部署多条使用不同协议的节点链路，节点托管在来自不同服务商的 VPS 上，从架构层面提升冗余和容错能力，尽量避免同一时间大面积故障，确保网络始终可用、可替代、可恢复。
+
+目前我们提供有限时套餐和不限时套餐两大类，覆盖轻度使用到重度跨境办公的多种场景。主线路带宽最高可达 1Gbps，许多节点支持解锁 GPT、主流流媒体平台等服务，为学习、工作与娱乐提供更顺畅的体验。
+
+![Scircle.png](https://fojump.blog/usr/uploads/2025/12/1535793335.png)
+
+![once.png](https://fojump.blog/usr/uploads/2025/12/2212820613.png)
+
+除了自研客户端外，我们也兼容 Clash Verge、FlClash 等仍在持续更新的第三方客户端（部分旧版客户端可能不支持最新协议节点，请以实际说明为准），用户可以根据自己的习惯自由选择工具。
+
+我们选择的是长期稳定运营，不追求“看起来离谱”的超低价格，因为那往往意味着成本压缩、安全折扣甚至随时跑路的风险。同样，我们也不建议你随意使用来路不明的免费节点，那些“免费”背后，可能是对你浏览记录、账号密码和隐私数据的悄然收集与滥用。
+
+目前有100+个节点，
+
+![node.png](https://fojump.blog/usr/uploads/2025/12/3550027091.png)
+
+晚高峰，16K视频秒开。
+
+![ScreenShot_2025-12-12_160732_946.png](https://fojump.blog/usr/uploads/2025/12/1898927146.png)
+
+
+选择  [佛跳墙VPN](https://nav.fojump.com)，是在速度、稳定与安全之间做出一次更稳妥的平衡，让跨境访问成为一件可靠、可控的日常小事。
+
+
+## 适合谁
+- 外贸 / 跨境电商
+- 开发 / 运维
+- 留学 / 海外生活
+- 内容创作 / 社媒运营
+
+## 核心特点
+- 多地区节点覆盖
+- 多客户端支持（Clash / Shadowrocket / Windows / macOS）
+- 使用门槛低
+- ……
+
+## 使用建议
+可以参考博客[佛小跳的庄园](https://fojump.blog)。
+
+## 官方入口
+
+- https://nav.fojump.com
+- https://www.fojump.com
+- https://fojump.net
