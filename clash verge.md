@@ -1,0 +1,244 @@
+<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=bCjVAO3ELCJoCYmOOYQSAPRZn_oa2SsO&jump_from=webapi&authKey=M6QTAslGvossfKow2iGQykLK8ifql2soXnWdi2hd69jhJtXK7CrNlQaOeePpu2pZ"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="人间忽晚新群" title="人间忽晚新群"></a>
+
+<span style="color:green;">上述群为外包群：773175205，有问题可以问q群管理员。</span>
+
+<span style="color:green;">若要联系本站老板：网页右下角客服或V信：fojump_com</span>
+
+---
+
+### 🖥️ Clash verge 各系统版本下载
+
+| 系统平台        | 主要下载链接          | 备用下载方案          |
+|----------------|---------------------|---------------------|
+| **安卓（Android）** | [官方下载](http://www.app-bos.com/igBE134au92j) | [备用1](https://pan.lics.vip/f/RBwUP/%E7%8C%ABmeta%E5%AE%89%E5%8D%93%E3%80%81%E9%B8%BF%E8%92%99.apk) \| [备用2](http://www.app-bos.com/igBE134au92j) |
+| **电视/机顶盒** | [官方下载](http://www.app-bos.com/igBE134au92j) | [备用1](https://pan.lics.vip/f/RBwUP/%E7%8C%ABmeta%E5%AE%89%E5%8D%93%E3%80%81%E9%B8%BF%E8%92%99.apk) \| [备用2](https://pan.lics.vip/f/RBwUP/%E7%8C%ABmeta%E5%AE%89%E5%8D%93%E3%80%81%E9%B8%BF%E8%92%99.apk) |
+| **Windows 64位** | [官方下载](http://wwbfi.appbco.com/i8udZ3lyrc7a) | [备用1](https://pan.lics.vip/f/YqoTy/clv_2.4.7_x64-setup.exe) \| [备用2](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64-setup.exe) |
+| **Mac (M系列芯片)** | [官方下载](http://wwbfi.appbco.com/ihoJD3lyr6qd) | [备用1](https://pan.lics.vip/f/K3zs4/clv_2.4.7_aarch64_M.dmg) \| [备用2](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_aarch64.dmg) |
+| **Mac (Intel芯片)** | [官方下载](http://wwbfi.appbco.com/i84cp3lyrbjg) | [备用1](https://pan.lics.vip/f/e21i8/clv_2.4.7_x64_intel.dmg) \| [备用2](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64.dmg) |
+| **Linux(DEB)** | [arm64下载](http://wwbfi.appbco.com/iTE4e3lyr9lg) |[amd64](http://wwbfi.appbco.com/iDgtu3lyr8hg) \| [armv7](http://wwbfi.appbco.com/ivEVK3lyrahi)|
+
+
+**系统要求说明**：
+- 1、Windows 用户需 Windows 10 及以上系统（Win7 请使用旧版 Clash），更多版本请联系客服。
+
+- 2、**安卓** 图文教程在后面。请耐心往后翻。
+
+| 旧版Clash       | 64位下载          | 32位下载         |
+|----------------|---------------------|---------------------|
+| **Windows7** | [节点数量少](http://wwbfi.appboz.com/irK7J1z3682b) | [节点数量少](http://wwbfi.appboz.com/iSXvN0fdkw5g)  |
+
+   **重要提示：**
+- 电脑时间必须设置为北京时间：
+- 安装时如出现风险提示，请点击"保留"，了解详情，仍要运行。
+
+![](https://f005.backblazeb2.com/file/foguanfang/fokwin1.png)
+---
+
+---
+
+## ⚠️ 使用前必读要点
+
+1. **<span style="color:red">账户状态确认</span>**：使用前请确保套餐在有效期内且有剩余流量
+2. **<span style="color:red">续费后操作</span>**：续费后请先取消"系统代理"设置，再更新订阅
+3. **<span style="color:red">核心步骤</span>**：导入订阅 → 启用"系统代理"
+4. **<span style="color:red">安全软件处理</span>**：安装运行时如遇360等安全软件提示，请一律"允许"
+5. **<span style="color:red">模式选择</span>**：不要选择"直连/DIRECT"模式，应选用 rule 或全局模式
+6. **<span style="color:red">冲突排查</span>**：卸载其他VPN软件，如浏览器仍不可用，可能是插件冲突
+
+---
+
+## 🔧 订阅配置方法，以下先以win系统为例，其他系统文末有注意事项。
+
+### 📋 方式一：自动导入（若唤醒失败，看方法二）
+1. 使用浏览器登录佛跳墙首页，进入**仪表盘**页面
+2. 找到**一键订阅**栏，点击**导入到 Clash Verge**按钮
+3. 根据提示点击**打开 Clash Verge**按钮
+4. 在弹出窗口中点击**确定**按钮，即可订阅成功
+5. 在clash-设置-第二行勾选 **系统代理**，然后返回clash-代理，选择节点，即可上网。
+
+<img src="https://f005.backblazeb2.com/file/fotiaoqiang/win-clv1.png" />
+
+### 📋 方式二：手动下载
+1. 使用浏览器登录加速器首页，进入**仪表盘**页面
+2. 找到**一键订阅**栏，点击**复制订阅链接**按钮
+3. 打开 Clash Verge**面板 → 订阅 → 粘贴订阅链接 到 Url 栏→ 导入**
+5. 在面板找到 **设置**，第二行勾选**系统代理**
+
+
+<img src="https://f005.backblazeb2.com/file/fotiaoqiang/win-clv2.png" />
+
+<img src="https://f005.backblazeb2.com/file/fotiaoqiang/win-clv3.png" />
+
+如果显示timeout，或者更新订阅失败，那么请把你的订阅地址输入到这里，更换一个可用的订阅地址。
+<iframe src="https://tobemusk.top/subhub.html"
+  allow="clipboard-write"
+  style="width:100%;height:640px;border:1px solid #e7e7ea;border-radius:16px;"
+  loading="lazy"></iframe>
+
+<img src="https://f005.backblazeb2.com/file/fotiaoqiang/win-clv4.png" />
+
+<img src="https://f005.backblazeb2.com/file/fotiaoqiang/win-clv5.png" />
+
+
+---
+
+## 🚀 开启代理连接
+
+
+1. 打开 Clash Verge **代理**处，点击**wifi符号**选择可用节点；
+2. 点击 **设置为系统代理** 开启系统代理；
+3. 状态栏 Clash图标由 **紫红色变成橘黄色** ，表示代理已成功开启；
+4. 在面板-代理-右上角处可以选择 **规则 or 全局** 模式，不要不要不要选 **直连**。
+
+<img src="https://f005.backblazeb2.com/file/fotiaoqiang/win-clv6.png" />
+
+
+---
+
+
+#### 🍎 Win 用户在关闭 Clash-verge后，浏览器无法联网的处理方式如下，Mac处理方式相同，也是在**设置**那里找到**代理**，点击**全部关闭**即可。
+-
+<img src="https://f005.backblazeb2.com/file/fotiaoqiang/proxy.png" />
+
+
+---
+
+## 🍎 Mac 用户专属提示
+- **<span style="color:red">在"系统设置-隐私与安全性"中允许"来自任何地方的安装"</span>**
+- **<span style="color:red">安装时请将应用拖入「应用程序(Applications)」文件夹</span>**
+- **<span style="color:red">通过启动台(Launchpad)启动应用</span>**
+
+<img src="https://pan.lics.vip/f/5WpTq/mac1.jpg" alt="5.png" title="5.png" />
+
+---
+
+- **<span style="color:red"> Mac 版本中App Store商店的
+Telegram无法代理
+
+问题原因：商店版同Telegram For MacOS(Swift版本)默认不遵守系统代理。
+如图所示，在TG应用内设置代理，默认代理端口7897。
+</span>**
+
+
+<img src="https://f005.backblazeb2.com/file/fotiaoqiang/mac_tg.png" alt="5.png" title="5.png" />
+
+### 🐧 Linux 用户注意事项
+- 支持多种安装格式
+- 可访问相关项目获取最新版本
+
+---
+
+## ❓ 故障排除与帮助
+
+### 🔧 常见问题解决
+- **<span style="color:red">安装/运行异常</span>**：如遇闪退、不显示等问题，请尝试使用 Clash 旧版本
+- **<span style="color:red">节点显示但无法连接</span>**：检查是否与浏览器插件冲突，尝试禁用插件测试
+- **<span style="color:red">订阅失败</span>**：检查网络连接，尝试切换网络环境后重新订阅
+
+### 📞 获取进一步帮助
+如按照指南仍无法解决问题，可百度搜索并下载**todesk远程**
+1. 将**设备代码**发送给**技术支持人员**
+3. 获取专业技术支持
+
+---
+
+## 💡 温馨提示
+
+> **<span style="color:red">使用过程中请确保系统时间准确</span>**，避免证书错误导致连接问题。
+> 
+> **定期更新客户端**可获得更好体验和安全性提升。
+> 
+> 建议使用**规则模式**，智能分流国内外流量，获得最佳使用体验。
+
+*本文档将持续更新，建议收藏保存以便查阅最新信息*
+
+
+___
+
+#### 📱 续费后请**先断开连接**，再在配置点击刷新订阅 **或者** 重新导入订阅。
+
+---
+
+### 📥 客户端下载与支持
+> 根据您的设备选择对应版本：
+
+| 版本类型 | 下载链接 |
+|---------|---------|
+| **国际标准版** | [立即下载](http://www.app-bos.com/igBE134au92j) |
+| **备用版本** | [备用下载](https://pan.lics.vip/f/RBwUP/%E7%8C%ABmeta%E5%AE%89%E5%8D%93%E3%80%81%E9%B8%BF%E8%92%99.apk) |
+| **电视/机顶盒版** | [专用版本](http://www.app-bos.com/igBE134au92j) |
+
+---
+
+## ⚡ 安装时请**忽略所有风险提示**
+
+### 🎯 方法一
+
+1. **下载安装后** → 用该设备打开网站 → 找到并点击 **一键订阅**→ **导入Clash meta** → 右上角保存订阅→ 返回代理选择可用地区节点连接
+2. **确保套餐有效**且流量充足
+
+
+---
+
+### 📋 方法二
+1. 在网站面板找到一键订阅（订阅地址），点击「复制订阅地址」
+2. 打开Clash进入「配置」页面
+3. 点击右上角「+」→ 选择「URL」
+4. 粘贴订阅地址并确认
+5. 右上角点击**保存**完成配置
+
+<img src="https://f005.backblazeb2.com/file/techand/and-clv1.jpg" />
+
+<img src="https://f005.backblazeb2.com/file/techand/and-clv2.jpg" />
+
+<img src="https://f005.backblazeb2.com/file/techand/and-clv3.jpg" />
+
+<img src="https://f005.backblazeb2.com/file/techand/and-clv4.jpg" />
+
+
+
+- 返回主界面，点击**代理**，点击右上角**闪电符号**，ping出延迟后，选择可用**地区节点**使用。
+
+### 🚀 进阶教程
+1. 可在代理处选择模式，全局模式和规则模式或者不修改，不要选择直连
+2. 可在配置处，编辑那里选择自动更新频率。建议填写120分钟。
+3. 其他配置自行探索，多折腾一下。
+
+<img src="https://f005.backblazeb2.com/file/techand/and-clv5.jpg" />
+
+---
+
+## 🌐 模式说明
+
+### 🤖 智能模式（推荐）
+- **显示为**：不修改模式
+- **特点**：智能判断流量，自动选择是否代理
+- **适用**：日常浏览、视频、社交应用
+
+### 🌍 全局模式
+- **启用方式**：配合GLOBAL节点使用
+- **特点**：所有流量通过代理
+- **适用场景**：访问特定区域版本内容
+
+---
+
+## ❓ 常见问题
+
+
+### ⚠️ 安装问题
+**Q：安装提示有风险？**  
+A：正常提示，请选择"继续安装"
+
+### 🔗 连接问题
+**Q：连接成功但无法访问？**  
+A：请检查：套餐状态 → 流量余额 → 尝试切换节点
+
+---
+
+## 💡 使用小贴士
+
+- 📶 建议在Wi-Fi环境下进行大型更新
+- 🔄 定期检查客户端更新
+- 🛠️ 复杂问题可通过远程协助解决
+
+> **📌 本文档持续更新，建议收藏备用**
