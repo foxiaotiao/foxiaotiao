@@ -1,0 +1,105 @@
+## 🌍 一、使用须知与建议
+
+我们建议每一位用户初步了解以下内容，以便更安全、顺畅地使用服务：
+
+- **<span style="color:red">选择稳定的线路</span>**：请尽量避免使用免费或价格过低的代理，这类服务不稳定，也存在停服和数据风险。
+- **<span style="color:red">因节点质量和速度不同</span>**：我们节点的流量存在 **多倍率**（6x 表示6倍流量计费），低倍速率也足够日常使用，请根据自身情况，合理规划。
+- **<span style="color:red">隐私与言行建议</span>**：在外网环境请注意自我保护，不宜发表敏感言论，避免隐私泄露。
+- **<span style="color:red">定制需求可联系客服</span>**：如果您有特殊线路需求（如家庭IP、指定地区节点等），我们可以提供性价比高的定制方案。
+- **<span style="color:red">代理≠网络修复/续费</span>**：请确保您的本地网络正常，代理仅提供转发服务。手机热点共享时，接收设备不会自动启用代理。
+- **<span style="color:red">流量用完重置问题</span>**：此时购买相同套餐只会延长时间，当月还是不可用，当月用选付费重置流量。
+- **<span style="color:red">俄罗斯节点看油管没有广告</span>**：请选择清晰度可以的节点。
+- **<span style="color:red">网络体验基本不取决于客户端</span>**：无论是clash verge，v2ray，flclash，还是其他客户端，只要显示该节点，该节点的速度和稳定性基本一样。
+
+![](https://f005.backblazeb2.com/file/fotiaoqiang/%E4%B8%89%E8%89%B2%E5%9B%BE.jpeg)
+
+---
+
+## ⚙️ 二、基础操作与退出方式
+
+- **<span style="color:red">如何彻底退出代理？</span>**  
+  - **电脑端**：在客户端右键选择"退出"即可。  
+  - **手机端**：在应用内断开连接或关闭代理开关。
+
+- **<span style="color:red">Apple ID 仅用于苹果设备</span>**，安卓和 Windows 用户无需使用。
+
+- 大部分操作问题可通过搜索引擎（如 **Google** 或 **Deepseek**）解决，建议先自行尝试查找。
+
+---
+
+## 🛠 三、常见问题排解
+
+**<span style="color:red">1. 退出代理后无法上网</span>**  
+- 请取消客户端的「**系统代理**」选项（System Proxy）。  
+- **Windows 用户**可依次进入：设置 → 网络和 Internet → 代理 → 关掉所有选项。也可使用"**360断网急救箱**"修复。  
+- **Mac 用户**请在网络设置中关闭代理。
+
+**<span style="color:red">2. 客户端安装/重装时转圈卡住</span>**  
+- 彻底卸载当前版本，更换路径重新安装，或换用 **Clash 系列** 客户端。
+
+**<span style="color:red">3. 订阅导入失败/更新失败</span>**  
+- 可在网站个人中心底部"**重置订阅**"。  
+- 如仍未恢复，请检查：  
+  - 是否被校园网/路由器拦截（尝试切换移动热点）；  
+  - 是否未断开代理连接；  
+  - 是否套餐到期或流量用尽。
+
+**<span style="color:red">4. 系统时间不准</span>**  
+- 请搜索"**Windows/Mac 时间同步**"校正系统时间，否则可能影响使用。
+
+**<span style="color:red">5. 流量异常消耗</span>**  
+- 建议重置订阅链接并修改账号密码。
+
+**<span style="color:red">6. 华为手机用户推荐通过 Google Play 下载 Clash</span>** 使用以获得最佳兼容性。
+
+**<span style="color:red">7. 想要全局代理，但希望国内网站直连？</span>**  
+- 可使用 **Rule（规则）模式**，智能分流，无需手动切换。
+
+**<span style="color:red">8. 使用期间建议暂时关闭电脑杀毒软件或防火墙</span>**  
+- （**Mac：设置→隐私与安全→防火墙**）。  
+
+**<span style="color:red">9. 本站之外的服务与链接属于第三方</span>**  
+- 请注意辨别，我们无法承担相关责任。  
+
+**<span style="color:red">10. 实在搞不定？</span>**  
+- 可安装 **ToDesk**，将设备代码发客服，远程协助处理。
+- 请彼此尊重，客服会尽力协助，但希望用户也具备基本自助能力。
+
+---
+
+## 📲 四、关于 TikTok 访问的说明
+
+代理是访问 TikTok 的必要条件，但不是唯一条件：
+
+- 🏢 **<span style="color:red">如使用的是"机房IP"</span>**，需还原手机出厂设置 + 模拟海外用户环境（iOS 配置教程请咨询客服获取）；  
+- 🏠 **<span style="color:red">如使用"家庭IP"</span>**则可直接使用（注：当前套餐IP均为机房IP，家庭IP需定制）；  
+- 也可直接插入境外手机卡访问。
+
+---
+
+## ⚠️ 五、节点使用指南
+1、<span style="color:blue; font-weight:bold;">Hysteria2协议和tuic协议</span>的节点在shadowrocket上不显示延迟，但是可以连接使用。<span style="color:red; font-weight:bold;">除非显示timeout才是真的不可用。</span>
+
+2、同一个地区的节点采购的来自不同的服务商，配置时，尽可能的采用了<span style="color:blue; font-weight:bold;">不同的协议</span>，同时，尽可能保留了<span style="color:blue; font-weight:bold;">直连和转发</span><span style="color:red; font-weight:bold;">（最近通报严重）</span>两种方式。这样尽量分散风险，保持随时有节点可以使用。
+
+3、因为节点必须要在<span style="color:blue; font-weight:bold;">速率、隐匿度、稳定性和安全性</span>之间做取舍。速率比较高，一般隐匿性就差一些，速率高又稳定，可能是比较新的协议，但是<span style="color:blue; font-weight:bold;">安全性未知</span>。
+
+4、有些<span style="color:blue; font-weight:bold;">高倍率节点</span>（加了转发）未必有<span style="color:blue; font-weight:bold;">直连</span>快，一般是<span style="color:blue; font-weight:bold;">Hyderia2 协议和tuic协议</span>的直连（1倍率）节点比<span style="color:blue; font-weight:bold;">转发</span>（高倍率）节点速度快，但是其他协议（<span style="color:blue; font-weight:bold;">trojan、vless等协议</span>）节点加了转发之后会比较快。
+
+5、另外自己的设备<span style="color:blue; font-weight:bold;">开热点给其他设备使用</span>，其他设备并不能<span style="color:blue; font-weight:bold;">自动翻墙</span>，代理相当于设备学会了外语，但是另外一台设备使用热点并不能立即学会外语这个技能。当然<span style="color:blue; font-weight:bold;">路由器设置了代理</span>，其他设备链接都可以自动翻，你可以理解它帮助所有使用它网络的设备做了同传。
+
+6、<span style="color:blue; font-weight:bold;">节点延迟也不是速度</span>，就拿我们其中一个香港节点举例，他延迟低，但速率真的一般，因为这台机子不限流量，但是限制了带宽，<span style="color:red; font-weight:bold;">另外一台香港虽然延迟也低，但是用的vless+reality协议，稳定性很差，连了一段时间自动会断掉，</span>但是IP很安全，过了两分钟就会自动连上。其实延迟没什么，我们两台一样的手机看同一个直播，它也不可能是同步的，但是不影响后续视频的连续性和清晰度。<span style="color:red; font-weight:bold;">当然竞技游戏除外，竞技游戏真的需要无感延迟。</span>
+
+7、在客户端选择上，mac,win,Android尽量使用 <span style="color:blue; font-weight:bold;">clash verge（meta内核 ）</span>,ios选择<span style="color:blue; font-weight:bold;">小火箭</span>，因为这个目前还是在<span style="color:blue; font-weight:bold;">更新和维护的开源客户端</span>，支持最新的协议，有很多旧的客户端不支持我们新的协议的节点。
+
+8、<span style="color:blue; font-weight:bold;">tiktok说明</span>，有些做tiktok的，检测ip时不在当地，有可能因为<span style="color:blue; font-weight:bold;">节点不是原生节点</span>，质量确实一般。另外运营tiktok需要你的<span style="color:blue; font-weight:bold;">节点所有使用者都没有干坏事</span>，<span style="color:red; font-weight:bold;">否则账号就会被影响。</span>
+
+9、有些节点在<span style="color:blue; font-weight:bold;">支付的时候总是打不开</span>，是因为<span style="color:blue; font-weight:bold;">转发机屏蔽了</span>，这时候你只需要<span style="color:blue; font-weight:bold;">切换直连节点</span>就可以了，直连节点一般是<span style="color:blue; font-weight:bold;">1x（1倍率）节点</span>，当然有的1倍率节点有点慢，这时候可以选择<span style="color:blue; font-weight:bold;">主流地区的1倍率节点或者Hysteria2协议的节点</span>是不错的。
+
+10、有些桌面版不遵循代理规则，这时候需要<span style="color:blue; font-weight:bold;">打开clash verge 的虚拟网卡模式</span>，其他客户端又叫<span style="color:blue; font-weight:bold;">tun模式</span>，比如<span style="color:blue; font-weight:bold;">桌面版whatsapp</span>。
+
+11、有时候订阅地址会被屏蔽，所以需要定期去网站导入订阅，有时候网站也会随时消失，所以请大家务必定期检查邮箱，查看是否有最新网址通告。fojump.com是永久网址（即使被墙也不会变）。
+
+**希望通过本指南您能更加顺畅地使用服务。如果遇到问题，欢迎联系客服或进群交流，更多使用技巧欢迎访问 [佛小跳的庄园](https://www.fojump.blog)**
+
+---
